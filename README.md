@@ -4,4 +4,4 @@
 
 ## Scripts
 ### [Shopify Better Share Preview Links](https://github.com/ewanhowell1/TampermonkeyScripts/raw/refs/heads/main/shopifyBetterSharePreviewLinks.user.js)
-- Make Shopify "Share Preview" links link to the current page instead of the home page
+- Make the Shopify "Share Preview" links link to the current page instead of the home page
