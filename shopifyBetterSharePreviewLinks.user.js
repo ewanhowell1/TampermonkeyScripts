@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Shopify Better Share Preview Links
 // @version      1.0
-// @description  Make Shopify "Share Preview" links link to the current page instead of the home page
+// @description  Make the Shopify "Share Preview" links link to the current page instead of the home page
 // @author       Ewan Howell
 // @match        *://*/*
 // ==/UserScript==
