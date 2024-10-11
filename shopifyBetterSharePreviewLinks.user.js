@@ -12,7 +12,7 @@
   if (button) {
     button.addEventListener("click", e => {
       const input = document.getElementById("share_theme_url")
-      input.value += window.top.location.href.replace(window.location.origin, "")
+      input.value = new URL(input.value).origin + window.top.location.href.replace(window.location.origin, "")
       console.log(window.top.location.href)
     })
   }
